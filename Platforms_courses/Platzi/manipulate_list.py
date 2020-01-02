@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+
+# DOCS TO ABOUT ALL ENUMERATES https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
+
+
 # How create a list 
 my_list = list() # we can also create a list like this my_list = []
 print(my_list) 

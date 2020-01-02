@@ -1,4 +1,4 @@
-# -+- coding: utf-8 -+-
+# -*- coding: utf-8 -*-
 
 # Where consult about assign multi values to multi variables (https://note.nkmk.me/en/python-multi-variables-values/)
 # Rounding decimals  https://realpython.com/python-rounding/
