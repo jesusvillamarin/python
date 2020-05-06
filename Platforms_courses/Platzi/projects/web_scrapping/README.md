@@ -11,7 +11,10 @@
 To run the main.py script need the following steps
 
 1. virtualenv venv
-2. pip install -r requeriments.txt
+2. pip install -r requeriments.txt -t
+
+-r allow you to install dependencies from a file with txt extension
+-t allow you to put all downloaded dependencies to specific folder
 
 > run: python main.py --max-images= number_of_images_to_download
 
